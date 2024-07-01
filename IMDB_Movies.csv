@@ -1,0 +1,19 @@
+Genre,Count Of Movies,,,,
+Action,951,,,Average,413.6666667
+Adventure,366,,,Median,41
+Animation,45,,,mode,2
+Biography,204,,,Max,3723
+Comedy,984,,,Min,1
+Crime,253,,,Var,785707.8824
+Documentary,26,,,sd,886.4016484
+Drama,659,,,,
+Family,3,,,,
+Fantasy,37,,,,
+Horror,159,,,,
+Musical,2,,,,
+Mystery,23,,,,
+Romance,1,,,,
+Sci-Fi,7,,,,
+Thriller,1,,,,
+Western,2,,,,
+Grand Total,3723,,,,
